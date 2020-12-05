@@ -1,0 +1,30 @@
+body {
+	background-image: url(img/background.png);
+	font-family: Copperplate, fantasy ;
+	color: #ff9900;
+}
+.transparent {
+	color: #9966ff;
+}
+.transparent a {
+	color: #9966ff;
+}
+a{
+	text-decoration: underline;
+}
+
+header {
+	font-size: 30px;
+}
+.logo {
+	font-weight: 10px;
+	color: #d9d9d9;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+.release {
+	font-size: 30px;
+}
